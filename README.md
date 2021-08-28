@@ -1,4 +1,9 @@
 # CyberCourt
+[![github](https://img.shields.io/badge/CyberCourt-v0.1-brightgreen)](https://github.com/CyberCourt/whitepaper)
+
+
+## About CyberCourt
+
 > **A fair judgment indirectly proves the existence of the voice of God.**
 
 In many parts of the world, legal costs remain high and judicial corruption is commonplace. Maintaining your legal rights through the courts often means that you have to bear **high legal costs, complex court procedures, unfair judgments by judges who may accept bribes, and the risk that you will still be unable to enforce the judgments**.
@@ -7,17 +12,15 @@ In the cyber world, how do we solve these difficult problems that have gone thro
 
 The decentralized **CyberCourt** system is my answer.
 
-## About CyberCourt
-
 CyberCourt is a **decentralized, process transparent dispute handling system that empowers and restricts the rights of all parties in the form of code**.
 
 The system has three roles, **contract participants, the judge teams, and the platform**.
 
 The following is a detailed explanation of the constraints between the roles.
 
-### Contract participants
+## Contract participants
 
-The contract participants is the main body of the system. The contract party can sign a project contract with others through the CyberCourt system, pledge the tokens in the smart contract, and select a trusted judge team. After the project is completed, either one of the contract participants can initiate a token distribution proposal. When the contract participants agree upon it , The smart contract will automatically pay the corresponding tokens to the participants according to the content of the proposal.
+The contract participants is the main body of the system. The contract participants can sign a project contract with others through the CyberCourt system, pledge the tokens in the smart contract, and select a trusted judge team. After the project is completed, either one of the contract participants can initiate a token distribution proposal. When the contract participants agree upon it , The smart contract will automatically pay the corresponding tokens to the participants according to the content of the proposal.
 
 Through decentralization, contract participants do not need to worry about the security of pledged tokens, and through code restrictions, **ensure that tokens can only be distributed among contractual participants, preventing malicious inflows into addresses associated with the judge team** (Except the handling fee and referee fee of the judge team).
 
@@ -37,7 +40,7 @@ After all of the contract participants signs the project contract, the project e
 
 **The Buyer and the Seller of the contract should carefully choose a team of trusted judges together**, instead of being appointed by the Buyer alone, to prevent collusion between the Buyer and the team of judges.
 
-### Judge team
+## Judge team
 
 **Anyone can create a judge team**, and each judge team is a DAO organization with one person, one vote. Members of the DAO organization can vote within 3 days to determine the **organization’s name, contact information, website address, referee fees, the number of referees in each case, the number of cases handled by the judges at the same time, and other information, including the distribution of token remuneration and determining the composition of judges, and vote for approval**. After that proposal , it can be executed after 1 day.
 
@@ -57,7 +60,7 @@ It is recommended that the referee timeout time should be as short as possible w
 
 All the above parameters should be updated dynamically by the judge team according to the actual situation.
 
-### Platform
+## Platform
 
 The platform is responsible for the construction of Smart Contract, websites, and servers.
 
@@ -71,7 +74,7 @@ Considering that the token model is highly speculative, investors may only want 
 
 By default, reputation cannot be transferred, but considering a small part of the actual transfer needs, the DAO organization has the right to vote whether to turn on the switch of reputation transfer.
 
-### CyberCourt's Improvement of Realistic Judicial Rules
+## Improvement of Realistic Judicial Rules
 
 **The basic idea behind the establishment of the CyberCourt system is to solidify all processes through code, form clear and transparent processing rules, and grant and restrict the rights of all roles. And through the market selection mechanism of the contract participants to the judge team, after a preiod of time, it is positively motivating the judge team and promoting the judge team to provide more transparent, excellent, professional and fair referees.**
 
