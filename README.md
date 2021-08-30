@@ -1,5 +1,5 @@
 # <img src="./logo.png" width="25px" height="25px">   CyberCourt                
-[![github](https://img.shields.io/badge/CyberCourt-v0.1-brightgreen)](https://github.com/CyberCourt/whitepaper)
+[![github](https://img.shields.io/badge/CyberCourt-v0.2-brightgreen)](https://github.com/CyberCourt/whitepaper)
 
 [CyberCourt Website](https://cybercourt.github.io)
 
@@ -66,8 +66,10 @@ All the above parameters should be updated dynamically by the judge team accordi
 The platform is responsible for the construction of Smart Contract, websites, and servers.
 
 **The system is a real decentralized programming design. After the platform is built, the platform will no longer retain any power to upgrade the contract**, preventing the platform from having too much power and creating risks to the contract participants’s pledge of tokens. If there is need to upgrade Smart Contract ,this will be completed by redeploying new smart contract addresses.
-
+ 
 The platform does not have the right to suspend the smart contract. Once the smart contract is deployed, as long as it is still used by users, it will run forever in accordance with the contract logic.
+
+Also it is built with the principle of least privilege.When contract participants need approve Smart Contract to use their token,the platform only approve the required token number. 
 
 The platform only retains the ability to adjust the handling fee, and the handling fee ratio cannot exceed 3%, and the ratio at initial deployment is 0.5%.
 
